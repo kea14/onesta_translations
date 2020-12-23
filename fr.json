@@ -6,6 +6,12 @@
     "about": "À propos d'Onestà",
     "feedback": "Feedback",
     "dev_options": "Options développeurs",
+    "fetch_data": "Récupérez vos données <i class='fas fa-database'></i>",
+    "fetch_data_expl": "Vous avez la possibilité de récupérer vos données via l'API Onestà. Les résultats sont en JSON. Voici les routes que vous pouvez utiliser. Veuillez noter qu'une limite de 20 appels par minute est appliquée.",
+    "dev_alert_keys": "<i class='fas fa-info-circle'></i> Vous pouvez trouver vos clés dans les <a class='text-link' role='button' data-page='#settings'>paramètres</a>.",
+    "contribute_transl": "Contribuer aux traductions <i class='fas fa-language'></i>",
+    "help_transl": "Si vous désirez améliorer les traductions existantes ou en créer de nouvelles, vous pouvez contribuer ici: <a href='https://github.com/kea14/onesta_translations' target='_blank'>traductions Onestà</a>",
+    "thanks": "Merci! 🎉",
     "donate": "Faire un don",
     "whats_onesta": "Qu'est-ce qu'Onestà ?",
     "about_text_1": "<b>Onestà</b> est une application Web axée sur la confidentialité. Cette application vous permet de créer rapidement des tâches et des notes. Vos données restent accessibles où que vous soyez et peuvent être sauvegardées de manière anonyme dans le cloud. Vous contrôlez vos données. <b>Onestà</b> est entièrement gratuit, vous n'êtes pas tracké et il n'y a pas de publicité. Simple, non ?",
@@ -79,5 +85,6 @@
     "remove_completed_todos": "Supprimer toutes les tâches terminées",
     "An error has occurred.": "Une erreur est survenue.",
     "Error while fetching data.": "Erreur lors de la récupération des données.",
-    "File created successfully! ('Downloads' folder)": "Fichier créé avec succès! (Dossier 'Téléchargements')"
+    "File created successfully! ('Downloads' folder)": "Fichier créé avec succès! (Dossier 'Téléchargements')",
+    "Your data has been removed from the cloud.": "Vos données ont été supprimées du cloud."
 }
