@@ -86,5 +86,6 @@
     "An error has occurred.": "Une erreur est survenue.",
     "Error while fetching data.": "Erreur lors de la récupération des données.",
     "File created successfully! ('Downloads' folder)": "Fichier créé avec succès! (Dossier 'Téléchargements')",
-    "Your data has been removed from the cloud.": "Vos données ont été supprimées du cloud."
+    "Your data has been removed from the cloud.": "Vos données ont été supprimées du cloud.",
+    "Mark as done": "Marquer comme fait"
 }
