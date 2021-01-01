@@ -53,6 +53,7 @@
     "delete_local_data": "Supprimer vos données locales",
     "delete_cloud_data": "Supprimer vos données du cloud*",
     "desc_delete_cloud_data": "*Basé sur votre clé privée",
+    "version": "Version",
     "open_map": "Ouvrir la carte",
     "give_list_name": "Donnez un nom à votre liste",
     "ph_list_name": "Nom de la liste",
