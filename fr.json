@@ -128,6 +128,9 @@
     "this_week": "Cette semaine",
     "this_month": "Ce mois",
     "your_task": "Votre tâche",
+    "export_data": "Exporter les données",
+    "import_data": "Importer les données",
+    "hint_import": "<b>Astuce:</b> Lorsque vous importez des données, les données locales et distantes sont écrasées !",
     "An error has occurred.": "Une erreur est survenue.",
     "Error while fetching data.": "Erreur lors de la récupération des données.",
     "File created successfully! ('Downloads' folder)": "Fichier créé avec succès! (Dossier 'Téléchargements')",
@@ -137,5 +140,8 @@
     "The status of the task has been changed.": "Le statut de la tâche a été changé.",
     "The server seems available.": "Le serveur semble disponible.",
     "You did not receive a response from the server... Please try again.": "Vous n'avez pas reçu de réponse du serveur... Veuillez réessayer.",
-    "Keyring #1": "Trousseau de clés #1"
+    "Keyring #1": "Trousseau de clés #1",
+    "Local and remote data has been updated successfully! Reloading the page...": "Les données locales et distantes ont été mise à jour avec succès! Rechargement de la page...",
+    "Local data has been updated but there was an error while updating remote data. Please, try again.": "Les données locales ont été mise à jour mais une erreur s'est produit durant la mise à jour des données distantes. Veuillez réessayer.",
+    "Local data has been updated successfully! Reloading the page...": "Les données locales ont été mise à jour avec succès! Rechargement de la page..."
 }
